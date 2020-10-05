@@ -1,0 +1,24 @@
+
+body {
+  background-color: #33ccff;
+  font-family: papyrus;
+  text-align: center;
+  align-items: center;
+}
+
+h1 {
+  color:black
+font-family: flyaway;
+}
+#wrapper {background-color:white;
+  margin: 20px 150px;
+  width: 1000px;
+  height: 300px;
+}
+
+#blok1 {background-color:green;
+  margin: 50px 300px;
+width: 600px;
+height: 100px;
+float: left;
+}
